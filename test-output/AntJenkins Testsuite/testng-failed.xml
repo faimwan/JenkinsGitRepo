@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [AntJenkins Testsuite]">
+  <test name="Regression test(failed)">
+    <classes>
+      <class name="myPackage.SmokeTest">
+        <methods>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- myPackage.SmokeTest -->
+    </classes>
+  </test> <!-- Regression test(failed) -->
+</suite> <!-- Failed suite [AntJenkins Testsuite] -->

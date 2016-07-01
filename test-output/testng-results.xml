@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="AntJenkins Testsuite" duration-ms="20463" started-at="2016-07-01T00:38:57Z" finished-at="2016-07-01T00:39:18Z">
+    <groups>
+    </groups>
+    <test name="Regression test" duration-ms="20463" started-at="2016-07-01T00:38:57Z" finished-at="2016-07-01T00:39:18Z">
+      <class name="myPackage.SmokeTest">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:myPackage.SmokeTest@483bf400]" name="loginTest" duration-ms="20447" started-at="2016-06-30T19:38:57Z" finished-at="2016-06-30T19:39:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- myPackage.SmokeTest -->
+    </test> <!-- Regression test -->
+  </suite> <!-- AntJenkins Testsuite -->
+</testng-results>
