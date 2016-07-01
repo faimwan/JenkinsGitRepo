@@ -30,7 +30,10 @@ public class SmokeTest {
 		
 		Thread.sleep(3000);
 		
+		//closing and destroying web driver
 		driver.quit();
+		
+		
 		
 	}
 }
